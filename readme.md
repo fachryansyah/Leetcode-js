@@ -4,4 +4,4 @@ This is my personal repo for learning Leetcode with JavaScript language. This re
 ## How To Run
 
 ## Todo
-- [] Adding run test
+- [ ] Adding run test
